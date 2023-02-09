@@ -1,0 +1,17 @@
+﻿  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Mesh Viewer\src\ofApp.cpp(162,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Mesh Viewer.vcxproj -> C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Mesh Viewer\bin\Mesh Viewer_debug.exe
+  
+  	                   2	C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\x64\
+  	  *EXTRA File 		 6942208	C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Mesh Viewer\bin\FreeImage.dll
+  
+  	                   1	C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1826304	C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Mesh Viewer\bin\fmod.dll
+  	  *EXTRA File 		 2041856	C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Mesh Viewer\bin\fmodL.dll

@@ -1,0 +1,10 @@
+﻿     Creating library bin\Mesh Viewer.lib and object bin\Mesh Viewer.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  Mesh Viewer.vcxproj -> C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Mesh Viewer\bin\Mesh Viewer.exe
+  
+  	                   2	C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\x64\
+  	  *EXTRA File 		 6942208	C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Mesh Viewer\bin\FreeImage.dll
+  
+  	                   1	C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1826304	C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Mesh Viewer\bin\fmod.dll
+  	  *EXTRA File 		 2041856	C:\Users\rtsen\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Mesh Viewer\bin\fmodL.dll
